@@ -1,4 +1,4 @@
-# Demystifying-Education
+# Demystifying Education
 
 Education is a topic of major importance in today’s societies. It is in our best interest that students achieve high performances, and many times this task is relegated to teachers.They must identify students with difficulties, and ensure their appropriate development. This is commonly done through heuristics or intuition. However, with the number of records available, data can help us make more
 informed decisions. We can use models to predict student performance, and effectively categorize them into different groups (low, middle, or high level) to more appropriately adapt to their needs, as is done in the Korean Middle School system.
