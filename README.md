@@ -7,4 +7,6 @@ In this project, we aim at understanding the factors that drive student success,
 We use EDA to explore our data, its possible problems and what attributes seem to be predictive of success. With these ideas, we do some Feature Engineering, before finally moving on to modelling.
 
 The results are very interesting, and show how the key to success is having well-rounded students, with a nice work-life balance.
-In this repository, the final PPT presentation and research paper can be found.
+
+***For further reading:***
+> Research paper and presentation are available in the repository
